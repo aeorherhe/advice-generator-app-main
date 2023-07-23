@@ -1,5 +1,4 @@
 // select elements
-// const adviceID = document.querySelector(".code");
 const adviceCode = document.querySelector(".advice-code");
 const advices = document.querySelector(".advice");
 const diceBtn = document.querySelector(".dice-btn");

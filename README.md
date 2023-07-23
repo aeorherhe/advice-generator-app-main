@@ -26,8 +26,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [live site]()
+- Solution URL: [solution](https://github.com/aeorherhe/advice-generator-app-main.git)
+- Live Site URL: [live site](https://aeorherhe-advice-generator-app.netlify.app/)
 
 ## My process
 
@@ -38,6 +38,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - Flexbox
 - Mobile-first workflow
 - Simple JavaScript
+- API
 
 ## Author
 
