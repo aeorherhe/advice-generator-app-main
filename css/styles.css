@@ -60,6 +60,11 @@ body {
   margin: 1.5rem 0 2rem;
 }
 
+.quote {
+  color: var(--Neon-Green);
+  font-size: 1.8rem;
+}
+
 .divider img:last-of-type {
   display: none;
 }

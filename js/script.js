@@ -14,7 +14,7 @@ const fetchAdvice = async () => {
       slip: { id, advice },
     } = data;
     adviceCode.innerHTML = `advice #<span class="code">${id}</span>`;
-    advices.innerHTML = advice;
+    advices.innerHTML = `<span class="quote">"</span>${advice}<span class="quote">"</span>`;
   } catch (error) {
     adviceCode.textContent = "Error";
     adviceCode.style.color = "#ef0c26";
